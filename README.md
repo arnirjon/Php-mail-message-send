@@ -1,1 +1,1 @@
-This is readme file
+PHP mail send to Gmail
